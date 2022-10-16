@@ -8,14 +8,12 @@ will be comfortable to use while developing Web Apps applications. Additionally,
 to make platform research better, we provide documentation for all Web Apps
 components with examples. So, deep dive into Web Apps becomes really easy.
 
-## Quick start
-
-To start learning, how Web Apps works, look into our
-[documentation repository](https://github.com/Telegram-Web-Apps/documentation).
-It explains, what this platform is, how it could be used, which components you
-need etc.
-
 ## Projects
+
+### [documentation](https://github.com/Telegram-Web-Apps/documentation)
+
+Best point to start learning Web Apps platform from. Provides information
+about whole platform, its concepts, opportunities and much more. 
 
 ### [client-sdk](https://github.com/Telegram-Web-Apps/client-sdk)
 
