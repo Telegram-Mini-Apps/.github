@@ -15,6 +15,13 @@ components with examples. So, deep dive into Web Apps becomes really easy.
 Best point to start learning Web Apps platform from. Provides information about
 whole platform, its concepts, opportunities and much more.
 
+### [core](https://github.com/Telegram-Web-Apps/core) <sup><img src="./static/ts.svg" alt="ts" width="16"/></sup>
+
+Web Apps core TypeScript utilities, which are reused in other packages of
+ecosystem. You probably don't need to use this package directly, but this will
+be useful to know, how other libraries use internally, as long as they use this
+package.
+
 ### [client-sdk](https://github.com/Telegram-Web-Apps/client-sdk) <sup><img src="./static/ts.svg" alt="ts" width="16"/></sup>
 
 Dead-simple, tree-shakeable, side-effects free, made from scratch TypeScript
@@ -27,8 +34,9 @@ own part of Telegram Web Apps ecosystem.
 
 TypeScript isomorphic library to make work with Telegram Web Apps init data
 easier. This library includes functions to verify and parse init data sent from
-client side of application. Used
-by [client-sdk](https://github.com/Telegram-Web-Apps/client-sdk).
+client side of application. 
+
+Used by [client-sdk](https://github.com/Telegram-Web-Apps/client-sdk).
 
 ### [init-data-golang](https://github.com/Telegram-Web-Apps/init-data-golang) <sup><img src="./static/go.svg" alt="go" width="16"/></sup>
 
@@ -41,10 +49,7 @@ with Golang.
 Web Apps theme parameters specialized repository. Contains ready to use JS
 scripts and set of TS utils which are commonly used in projects.
 
-### [core](https://github.com/Telegram-Web-Apps/core) <sup><img src="./static/ts.svg" alt="ts" width="16"/></sup>
-
-Web Apps core TypeScript utilities, which are reused in other packages of
-ecosystem.
+Used by [client-sdk](https://github.com/Telegram-Web-Apps/client-sdk).
 
 ## Contribution
 
