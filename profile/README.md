@@ -30,13 +30,16 @@ library was written with aim to make developers communication with Telegram way
 easier. It contains a lot of separate components which are responsible for their
 own part of Telegram Web Apps ecosystem.
 
+### [client-sdk-react](https://github.com/Telegram-Web-Apps/client-sdk-react) <sup><img src="./static/ts.svg" alt="ts" width="16"/></sup> <sup><img src="./static/react.svg" alt="react" width="16"/></sup>
+
+React bindings for client SDK. Contains hooks, components and other useful tools
+which allow usage of React along with Web Apps client SDK.
+
 ### [init-data-ts](https://github.com/Telegram-Web-Apps/init-data-ts) <sup><img src="./static/ts.svg" alt="ts" width="16"/></sup>
 
 TypeScript isomorphic library to make work with Telegram Web Apps init data
 easier. This library includes functions to verify and parse init data sent from
-client side of application. 
-
-Used by [client-sdk](https://github.com/Telegram-Web-Apps/client-sdk).
+client side of application.
 
 ### [init-data-golang](https://github.com/Telegram-Web-Apps/init-data-golang) <sup><img src="./static/go.svg" alt="go" width="16"/></sup>
 
@@ -49,11 +52,9 @@ with Golang.
 Web Apps theme parameters specialized repository. Contains ready to use JS
 scripts and set of TS utils which are commonly used in projects.
 
-Used by [client-sdk](https://github.com/Telegram-Web-Apps/client-sdk).
-
 ## Contribution
 
-Any participation in life of organisation is appreciated. In case, you found a
+Any participation in life of organization is appreciated. In case, you found a
 bug in some library or want new feature to be implemented, please create an
 issue in its GitHub repository.
 
