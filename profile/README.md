@@ -19,7 +19,7 @@ whole platform, its concepts, opportunities and much more.
 
 Web Apps core TypeScript utilities, which are reused in other packages of
 ecosystem. You probably don't need to use this package directly, but this will
-be useful to know, how other libraries use internally, as long as they use this
+be useful to know, how other libraries work internally, as long as they use this
 package.
 
 ### [client-sdk](https://github.com/Telegram-Web-Apps/client-sdk) <sup><img src="./static/ts.svg" alt="ts" width="16"/></sup>
