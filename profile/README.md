@@ -15,13 +15,13 @@ components with examples. So, deep dive into Web Apps becomes really easy.
 Best point to start learning Web Apps platform from. Provides information about
 whole platform, its concepts, opportunities and much more.
 
-### [sdk](https://github.com/Telegram-Web-Apps/sdk) <sup><img src="./static/ts.svg" alt="ts" width="16"/></sup>
+### [sdk](https://github.com/Telegram-Web-Apps/sdk) <sup><img src="https://github.com/Telegram-Web-Apps/.github/blob/master/static/ts.svg" alt="ts" width="16"/></sup>
 
 Monorepository, containing all the packages, connected with TypeScript
 development on Web Apps platform. To learn more, follow packages own
 documentation.
 
-### [client-sdk](https://github.com/Telegram-Web-Apps/client-sdk) <sup><img src="./static/ts.svg" alt="ts" width="16"/></sup>
+### [client-sdk](https://github.com/Telegram-Web-Apps/client-sdk) <sup><img src="https://github.com/Telegram-Web-Apps/.github/blob/master/static/ts.svg" alt="ts" width="16"/></sup>
 
 Dead-simple, tree-shakeable, side-effects free, made from scratch TypeScript
 library for communication with Telegram Web Apps functionality. Code of this
@@ -29,18 +29,18 @@ library was written with aim to make developers communication with Telegram way
 easier. It contains a lot of separate components which are responsible for their
 own part of Telegram Web Apps ecosystem.
 
-### [client-sdk-react](https://github.com/Telegram-Web-Apps/client-sdk-react) <sup><img src="./static/ts.svg" alt="ts" width="16"/></sup> <sup><img src="./static/react.svg" alt="react" width="16"/></sup>
+### [client-sdk-react](https://github.com/Telegram-Web-Apps/client-sdk-react) <sup><img src="https://github.com/Telegram-Web-Apps/.github/blob/master/static/ts.svg" alt="ts" width="16"/></sup> <sup><img src="https://github.com/Telegram-Web-Apps/.github/blob/master/static/react.svg" alt="react" width="16"/></sup>
 
 React bindings for client SDK. Contains hooks, components and other useful tools
 which allow usage of React along with Web Apps client SDK.
 
-### [init-data-ts](https://github.com/Telegram-Web-Apps/init-data-ts) <sup><img src="./static/ts.svg" alt="ts" width="16"/></sup>
+### [init-data-ts](https://github.com/Telegram-Web-Apps/init-data-ts) <sup><img src="https://github.com/Telegram-Web-Apps/.github/blob/master/static/ts.svg" alt="ts" width="16"/></sup>
 
 TypeScript isomorphic library to make work with Telegram Web Apps init data
 easier. This library includes functions to verify and parse init data sent from
 client side of application.
 
-### [init-data-golang](https://github.com/Telegram-Web-Apps/init-data-golang) <sup><img src="./static/go.svg" alt="go" width="16"/></sup>
+### [init-data-golang](https://github.com/Telegram-Web-Apps/init-data-golang) <sup><img src="https://github.com/Telegram-Web-Apps/.github/blob/master/static/go.svg" alt="go" width="16"/></sup>
 
 This library is the same
 as [init-data-ts](https://github.com/Telegram-Web-Apps/init-data-ts), but made
