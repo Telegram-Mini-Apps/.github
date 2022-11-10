@@ -15,7 +15,7 @@ components with examples. So, deep dive into Web Apps becomes really easy.
 Best point to start learning Web Apps platform from. Provides information about
 whole platform, its concepts, opportunities and much more.
 
-### [sdk](https://github.com/Telegram-Web-Apps/sdk) <sup><img src="https://github.com/Telegram-Web-Apps/.github/blob/master/static/ts.svg" alt="ts" width="16"/></sup>
+### [twa](https://github.com/Telegram-Web-Apps/twa) <sup><img src="https://github.com/Telegram-Web-Apps/.github/blob/master/static/ts.svg" alt="ts" width="16"/></sup>
 
 Monorepository, containing all the packages, connected with TypeScript
 development on Web Apps platform.
