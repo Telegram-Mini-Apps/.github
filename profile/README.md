@@ -46,11 +46,6 @@ This library is the same
 as [init-data-ts](https://github.com/Telegram-Web-Apps/init-data-ts), but made
 with Golang.
 
-### [theme-params](https://github.com/Telegram-Web-Apps/theme-params) <sup><img src="./static/ts.svg" alt="ts" width="16"/></sup>
-
-Web Apps theme parameters specialized repository. Contains ready to use JS
-scripts and set of TS utils which are commonly used in projects.
-
 ## Contribution
 
 Any participation in life of organization is appreciated. In case, you found a
