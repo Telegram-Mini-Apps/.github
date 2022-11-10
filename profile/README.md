@@ -15,12 +15,11 @@ components with examples. So, deep dive into Web Apps becomes really easy.
 Best point to start learning Web Apps platform from. Provides information about
 whole platform, its concepts, opportunities and much more.
 
-### [core](https://github.com/Telegram-Web-Apps/core) <sup><img src="./static/ts.svg" alt="ts" width="16"/></sup>
+### [sdk](https://github.com/Telegram-Web-Apps/sdk) <sup><img src="./static/ts.svg" alt="ts" width="16"/></sup>
 
-Web Apps core TypeScript utilities, which are reused in other packages of
-ecosystem. You probably don't need to use this package directly, but this will
-be useful to know, how other libraries work internally, as long as they use this
-package.
+Monorepository, containing all the packages, connected with TypeScript
+development on Web Apps platform. To learn more, follow packages own
+documentation.
 
 ### [client-sdk](https://github.com/Telegram-Web-Apps/client-sdk) <sup><img src="./static/ts.svg" alt="ts" width="16"/></sup>
 
