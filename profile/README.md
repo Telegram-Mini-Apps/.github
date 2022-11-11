@@ -20,19 +20,6 @@ whole platform, its concepts, opportunities and much more.
 Monorepository, containing all the packages, connected with TypeScript
 development on Web Apps platform.
 
-### [client-sdk](https://github.com/Telegram-Web-Apps/client-sdk) <sup><img src="https://github.com/Telegram-Web-Apps/.github/blob/master/static/ts.svg" alt="ts" width="16"/></sup>
-
-Dead-simple, tree-shakeable, side-effects free, made from scratch TypeScript
-library for communication with Telegram Web Apps functionality. Code of this
-library was written with aim to make developers communication with Telegram way
-easier. It contains a lot of separate components which are responsible for their
-own part of Telegram Web Apps ecosystem.
-
-### [client-sdk-react](https://github.com/Telegram-Web-Apps/client-sdk-react) <sup><img src="https://github.com/Telegram-Web-Apps/.github/blob/master/static/ts.svg" alt="ts" width="16"/></sup> <sup><img src="https://github.com/Telegram-Web-Apps/.github/blob/master/static/react.svg" alt="react" width="16"/></sup>
-
-React bindings for client SDK. Contains hooks, components and other useful tools
-which allow usage of React along with Web Apps client SDK.
-
 ### [init-data-golang](https://github.com/Telegram-Web-Apps/init-data-golang) <sup><img src="https://github.com/Telegram-Web-Apps/.github/blob/master/static/go.svg" alt="go" width="16"/></sup>
 
 This library is the same
@@ -47,4 +34,4 @@ issue in its GitHub repository.
 
 Found Web Apps platform bug or want new platform functionality to be made?
 Create
-issue [here](https://github.com/Telegram-Web-Apps/client-sdk/issues/new/choose). 
+issue [here](https://github.com/Telegram-Web-Apps/twa/issues/new/choose). 
