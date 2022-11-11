@@ -10,7 +10,7 @@ components with examples. So, deep dive into Web Apps becomes really easy.
 
 ## Projects
 
-### [documentation](https://github.com/Telegram-Web-Apps/documentation)
+### [documentation](https://github.com/Telegram-Web-Apps/twa/tree/master/packages/documentation)
 
 Best point to start learning Web Apps platform from. Provides information about
 whole platform, its concepts, opportunities and much more.
