@@ -22,9 +22,7 @@ development on Web Apps platform.
 
 ### [init-data-golang](https://github.com/Telegram-Web-Apps/init-data-golang) <sup><img src="https://github.com/Telegram-Web-Apps/.github/blob/master/static/go.svg" alt="go" width="16"/></sup>
 
-This library is the same
-as [init-data-ts](https://github.com/Telegram-Web-Apps/init-data-ts), but made
-with Golang.
+Golang package which provides utilities to work with Telegram Web Apps init data. Includes full API and workflow documentation.
 
 ## Contribution
 
