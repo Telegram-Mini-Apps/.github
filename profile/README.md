@@ -10,9 +10,9 @@ components with examples. So, deep dive into Web Apps becomes really easy.
 
 ## Projects
 
-### [documentation](https://github.com/Telegram-Web-Apps/twa/tree/master/packages/documentation)
+### [documentation](https://telegram-web-apps.github.io/twa/)
 
-Best point to start learning Web Apps platform from. Provides information about
+Best point to start learning Web Apps platform from. Provides full information about
 whole platform, its concepts, opportunities and much more.
 
 ### [twa](https://github.com/Telegram-Web-Apps/twa) <sup><img src="https://github.com/Telegram-Web-Apps/.github/blob/master/static/ts.svg" alt="ts" width="16"/></sup>
@@ -31,5 +31,4 @@ bug in some library or want new feature to be implemented, please create an
 issue in its GitHub repository.
 
 Found Web Apps platform bug or want new platform functionality to be made?
-Create
-issue [here](https://github.com/Telegram-Web-Apps/twa/issues/new/choose). 
+Create issue [here](https://github.com/Telegram-Web-Apps/twa/issues/new/choose). 
