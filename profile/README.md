@@ -11,8 +11,11 @@ To start developing applications on the platform, take a look at [@tma.js monore
 ## Contribution
 
 I greatly appreciate any participation in the open source development community. If you wish to 
-sponsor the open source initiative, you can send your donation to this TON wallet:
+sponsor the open source initiative, you can choose one of the following options: 
 
+- Donate TON
 ```
 UQB7SraEWQus00E0k2SiAjXVIYzSGRJXIwF9ciYUM4tBIJMI
 ```
+
+- [Send a tip](https://boosty.to/heyqbnk/donate) or [purchase a recurring subscription](https://boosty.to/heyqbnk/purchase-gift) on boosty.to
