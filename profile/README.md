@@ -4,9 +4,11 @@ This GitHub organisation was created by a single developer which is excited to i
 Telegram platform as Telegram Mini Apps. All packages, documentations and examples are also maintained
 by a single developer.
 
-To understand the platform concepts, you could probably begin with the [documentation](https://docs.twa.dev/docs/introduction/about-platform).
+To understand the platform concepts, you could begin with the [documentation](https://docs.twa.dev/docs/introduction/about-platform).
 
 To start developing applications on the platform, take a look at [@tma.js monorepo](https://github.com/Telegram-Mini-Apps/tma.js).
+
+To report a bug or suggest a platform enhancement, proceed to the [issues repository](https://github.com/Telegram-Mini-Apps/issues).
 
 ## Contribution
 
