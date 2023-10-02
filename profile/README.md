@@ -10,10 +10,10 @@ To start developing applications on the platform, take a look at [@tma.js monore
 
 ## Contribution
 
-I greatly appreciate any participation in the open source development community. If you wish to 
-sponsor the open source initiative, you can donate TON to this wallet: 
+I greatly appreciate any participation in the open source development community. In case, you have no 
+free time to contribute with code, you could still sponsor the open source initiative by donating TON 
+to this wallet: 
 
 ```
 UQB7SraEWQus00E0k2SiAjXVIYzSGRJXIwF9ciYUM4tBIJMI
 ```
-
