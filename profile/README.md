@@ -1,6 +1,6 @@
 # Telegram Mini Apps
 
-This GitHub organisation was created by a single developer which is excited to improve such
+This GitHub organization was created by a single developer which is excited to improve such
 Telegram platform as Telegram Mini Apps. All packages, documentations and examples are also maintained
 by a single developer. At the moment, organization mostly aims at **TypeScript**, **Node** and **GoLang**. 
 
