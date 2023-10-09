@@ -6,10 +6,10 @@ by a single developer. At the moment, organization mostly aims at **TypeScript**
 
 ## Links
 
-- Platform and packages [documentation](https://docs.telegram-mini-apps.com)
+- Learn more about packages and platform - [documentation](https://docs.telegram-mini-apps.com)
 - TypeScript packages for Node and browser - [@tma.js monorepository](https://github.com/Telegram-Mini-Apps/tma.js)
-- [Repository](https://github.com/Telegram-Mini-Apps/issues) to report a bug or suggest a platform enhancement
-- Public platform development [dashboard](https://github.com/orgs/Telegram-Mini-Apps/projects/1)
+- Report a bug or suggest a platform enhancement - [repository](https://github.com/Telegram-Mini-Apps/issues)
+- Track platform development process - [dashboard](https://github.com/orgs/Telegram-Mini-Apps/projects/1)
 
 ## Contribution
 
