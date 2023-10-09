@@ -2,7 +2,16 @@
 
 This GitHub organization was created by a single developer which is excited to improve such
 Telegram platform as Telegram Mini Apps. All packages, documentations and examples are also maintained
-by a single developer. At the moment, organization mostly aims at **TypeScript**, **Node** and **GoLang**. 
+by a single developer. At the moment, organization mostly aims at **TypeScript**, **Node** and **GoLang**.
+
+## Motivation
+
+The main purpose of this organization is to provide a single source of information for the platform, 
+significantly decreasing the barrier for entry. Telegram's documentation can sometimes be difficult to 
+research and find the specific information that developers need. That's why the author of this organization
+spent more than a year researching the creation of Telegram, its concepts, ideas, and problems.
+
+Everything provided by the organization is the result of hard work and is available for free to everyone.
 
 ## Links
 
@@ -10,12 +19,12 @@ by a single developer. At the moment, organization mostly aims at **TypeScript**
 - TypeScript packages for Node and browser - [@tma.js monorepository](https://github.com/Telegram-Mini-Apps/tma.js)
 - Report a bug or suggest a platform enhancement - [repository](https://github.com/Telegram-Mini-Apps/issues)
 - Track platform development process - [dashboard](https://github.com/orgs/Telegram-Mini-Apps/projects/1)
+- Join public developers discussions - [Telegram chat](https://t.me/twa_dev)
 
 ## Contribution
 
 I greatly appreciate any participation in the open source development community. In case, you have no 
-free time to contribute with code, you could still sponsor the open source initiative by donating TON 
-to this wallet: 
+free time to contribute with code, you could still sponsor the open source initiative by donating TON: 
 
 ```
 UQB7SraEWQus00E0k2SiAjXVIYzSGRJXIwF9ciYUM4tBIJMI
