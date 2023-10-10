@@ -6,10 +6,18 @@ by a single developer. At the moment, organization mostly aims at **TypeScript**
 
 ## Motivation
 
+### Single source
+
 The main purpose of this organization is to provide a single source of information for the platform, 
 significantly decreasing the barrier for entry. Telegram's documentation can sometimes be difficult to 
 research and find the specific information that developers need. That's why the author of this organization
 spent more than a year researching the creation of Telegram, its concepts, ideas, and problems.
+
+### Public development
+
+The other idea behind the organization is to make platform development public. Developers would like to
+see what is going on behind the scenes or at least know what is going to be implemented in near future.
+This is rather rare feature for big companies, but I believe that Telegram is able to help with this.
 
 Everything provided by the organization is the result of hard work and is available for free to everyone.
 
