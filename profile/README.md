@@ -29,6 +29,14 @@ Everything provided by the organization is the result of hard work and is availa
 - Track platform development process - [dashboard](https://github.com/orgs/Telegram-Mini-Apps/projects/1)
 - Join public developers discussions - [Telegram chat](https://t.me/twa_dev)
 
+Also, the list of Mini Apps templates, using different frontend technologies:
+
+- [React and Vite](https://github.com/Telegram-Mini-Apps/reactjs-template)
+- [TypeScript and Vite](https://github.com/Telegram-Mini-Apps/typescript-template)
+- [Vanilla JavaScript](https://github.com/Telegram-Mini-Apps/vanillajs-template)
+- [Solid and Vite](https://github.com/Telegram-Mini-Apps/solidjs-template)
+- [Next JS](https://github.com/Telegram-Mini-Apps/nextjs-template)
+
 ## Contribution
 
 I greatly appreciate any participation in the open source development community. In case, you have no 
