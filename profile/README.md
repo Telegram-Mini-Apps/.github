@@ -1,6 +1,6 @@
 # Telegram Mini Apps
 
-This GitHub organization aims to improve the developer experience for the Telegram Mini Apps platform. 
+This GitHub organization aims at improving the developer experience for the Telegram Mini Apps platform. 
 It provides complete documentation, templates, and a wide range of packages for various programming languages.
 
 ## Motivation
