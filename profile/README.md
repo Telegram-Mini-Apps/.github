@@ -28,13 +28,37 @@ Everything provided by the organization is the result of hard work and is availa
 
 ## Boilerplates
 
-### [@telegram-mini-apps-dev/vanilla-js-boilerplate](https://github.com/Telegram-Mini-Apps-Dev/vanilla-js-boilerplate)
+### [@telegram-mini-apps](https://github.com/telegram-mini-apps)
+
+Boilerplates mentioned in this section are `@tma.js`-based. They don't use the SDK provided by Telegram,
+but it's better alternative.
+
+All boilerplates in this section also utilize such frontend tool as [Vite](https://vitejs.dev/). This 
+bundler is recognized as a good alternative for such technology as [Webpack](https://webpack.js.org/).
+
+#### [vanillajs-template](https://github.com/Telegram-Mini-Apps/vanillajs-template)
+
+Boilerplate using pure JavaScript and [@tma.js/sdk](https://www.npmjs.com/package/@tma.js/sdk) package 
+presented as an IIFE module.
+
+> ⚠️ Using IIFE modules is considered as non-effective. It is recommended to use bundlers along with ES6
+> modules. As the alternative, you could use [typescript-template](https://github.com/Telegram-Mini-Apps/typescript-template).
+
+#### [typescript-template](https://github.com/Telegram-Mini-Apps/typescript-template)
+
+Boilerplate using TypeScript and [@tma.js/sdk](https://www.npmjs.com/package/@tma.js/sdk).
+
+### [@telegram-mini-apps-dev](https://github.com/telegram-mini-apps-dev)
+
+Boilerplates mentioned in this section use the SDK provided by Telegram.
+
+#### [vanilla-js-boilerplate](https://github.com/Telegram-Mini-Apps-Dev/vanilla-js-boilerplate)
 
 Basic and straightforward boilerplate based on simple web technologies: JavaScript, HTML, and CSS. This
 project aims to provide a minimalistic example of how to create a simple Telegram Mini App and launch it
 within Telegram without relying on complex build tools or bleeding-edge libraries.
 
-### [@telegram-mini-apps-dev/vite-boilerplate](https://github.com/Telegram-Mini-Apps-Dev/vite-boilerplate)
+#### [vite-boilerplate](https://github.com/Telegram-Mini-Apps-Dev/vite-boilerplate)
 
 [Vite](https://vitejs.dev/) is a modern frontend tool that offers several advantages over traditional build
 tools, including faster development times, smaller bundle sizes, and improved developer experience. It
