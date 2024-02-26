@@ -1,47 +1,56 @@
 # Telegram Mini Apps
 
-This GitHub organization was created by a single developer which is excited to improve such
-Telegram platform as Telegram Mini Apps. All packages, documentations and examples are also maintained
-by a single developer. At the moment, organization mostly aims at **TypeScript**, **Node** and **GoLang**.
+This GitHub organization aims at improving the developer experience for the Telegram Mini Apps platform.
+It provides complete documentation, templates, and a wide range of packages for various programming languages.
 
 ## Motivation
 
 ### Single source
 
-The main purpose of this organization is to provide a single source of information for the platform, 
-significantly decreasing the barrier for entry. Telegram's documentation can sometimes be difficult to 
-research and find the specific information that developers need. That's why the author of this organization
-spent more than a year researching the creation of Telegram, its concepts, ideas, and problems.
+One of the purposes of this organization is to provide a single source of information for the platform,
+significantly decreasing the barrier for entry. Telegram's documentation can sometimes be difficult to
+research and find the specific information that developers need. This is the reason why community needs
+this kind of organization.
 
 ### Public development
 
 The other idea behind the organization is to make platform development public. Developers would like to
 see what is going on behind the scenes or at least know what is going to be implemented in near future.
-This is rather rare feature for big companies, but I believe that Telegram is able to help with this.
+This is rather rare feature for big companies, but we believe that Telegram is able to help with this.
 
 Everything provided by the organization is the result of hard work and is available for free to everyone.
 
-## Links
+## Issues and Enhancements
 
-- Learn more about packages and platform - [documentation](https://docs.telegram-mini-apps.com)
-- TypeScript packages for Node and browser - [@tma.js monorepository](https://github.com/Telegram-Mini-Apps/tma.js)
-- Report a bug or suggest a platform enhancement - [repository](https://github.com/Telegram-Mini-Apps/issues)
-- Track platform development process - [dashboard](https://github.com/orgs/Telegram-Mini-Apps/projects/1)
-- Join public developers discussions - [Telegram chat](https://t.me/twa_dev)
+Organization provides a special [repository](https://github.com/Telegram-Mini-Apps/issues) to report a bug or suggest a
+platform enhancement. Nevertheless, it is appreciated not only to report a bug
+in this organization, but to go further and refer to it in the Telegram applications
+repositories related to the reported problem.
 
-Also, the list of Mini Apps templates, using different frontend technologies:
+## Boilerplates
 
-- [React and Vite](https://github.com/Telegram-Mini-Apps/reactjs-template)
-- [TypeScript and Vite](https://github.com/Telegram-Mini-Apps/typescript-template)
-- [Vanilla JavaScript](https://github.com/Telegram-Mini-Apps/vanillajs-template)
-- [Solid and Vite](https://github.com/Telegram-Mini-Apps/solidjs-template)
-- [Next JS](https://github.com/Telegram-Mini-Apps/nextjs-template)
+[tmajs-docs]: https://docs.telegram-mini-apps.com/packages/typescript/tma-js-sdk/about
 
-## Contribution
+Boilerplates mentioned in this section are [@tma.js][tmajs-docs]-based. They don't use the SDK provided by Telegram,
+but it's better alternative. Also, almost all boilerplates in this section utilize such frontend tool
+as [Vite](https://vitejs.dev/). This bundler is recognized as a good alternative for such technology
+as [Webpack](https://webpack.js.org/).
 
-I greatly appreciate any participation in the open source development community. In case, you have no 
-free time to contribute with code, you could still sponsor the open source initiative by donating TON: 
+- [solidjs-template](https://github.com/Telegram-Mini-Apps/solidjs-template) <sup><img src="assets/solidjs.png" width="15"/> <img src="assets/ts.png" width="15"/> <img src="assets/vite.png" width="15"/></sup>
+- [react-template](https://github.com/Telegram-Mini-Apps/react-template) <sup><img src="assets/reactjs.png" width="15"/> <img src="assets/ts.png" width="15"/> <img src="assets/vite.png" width="15"/></sup>
+- [nextjs-template](https://github.com/Telegram-Mini-Apps/nextjs-template) <sup><img src="assets/nextjs.png" width="15"/> <img src="assets/ts.png" width="15"/></sup>
+- [typescript-template](https://github.com/Telegram-Mini-Apps/typescript-template) <sup><img src="assets/ts.png" width="15"/> <img src="assets/vite.png" width="15"/></sup>
+- [vanillajs-template](https://github.com/Telegram-Mini-Apps/vanillajs-template) <sup><img src="assets/js.png" width="15"/> <img src="assets/vite.png" width="15"/></sup>
 
-```
-UQB7SraEWQus00E0k2SiAjXVIYzSGRJXIwF9ciYUM4tBIJMI
-```
+## Design System
+
+Community developed a design component library in Figma, which will make it easier for designers to design apps for
+Telegram Mini Apps. The components fully mimic the Telegram interface, use it as a foundation, and inherit all
+existing principles. Libraries are available iOS, Android and other platforms.
+
+[Open in Figma](https://www.figma.com/file/AwAi6qE11mQllHa1sOROYp/Telegram-Mini-Apps-Library?type=design&node-id=26%3A1081&mode=design&t=Sck9CgzgyKz3iIFt-1)
+
+## Communication
+
+If you have any questions or suggestions about the particular tool, you are welcome to create an Issue or Pull
+Request. In case of any other questions, you can join our [Telegram chat](https://t.me/devs).
