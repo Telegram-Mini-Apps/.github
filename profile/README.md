@@ -36,11 +36,11 @@ but it's better alternative. Also, almost all boilerplates in this section utili
 as [Vite](https://vitejs.dev/). This bundler is recognized as a good alternative for such technology
 as [Webpack](https://webpack.js.org/).
 
-- [solidjs-template](https://github.com/Telegram-Mini-Apps/solidjs-template) <sup><img src="./profile/assets/solidjs.png" width="15"/> <img src="./profile/assets/ts.png" width="15"/> <img src="./profile/assets/vite.png" width="15"/></sup>
-- [react-template](https://github.com/Telegram-Mini-Apps/react-template) <sup><img src="./profile/assets/reactjs.png" width="15"/> <img src="./profile/assets/ts.png" width="15"/> <img src="./profile/assets/vite.png" width="15"/></sup>
-- [nextjs-template](https://github.com/Telegram-Mini-Apps/nextjs-template) <sup><img src="./profile/assets/nextjs.png" width="15"/> <img src="./profile/assets/ts.png" width="15"/></sup>
-- [typescript-template](https://github.com/Telegram-Mini-Apps/typescript-template) <sup><img src="./profile/assets/ts.png" width="15"/> <img src="./profile/assets/vite.png" width="15"/></sup>
-- [vanillajs-template](https://github.com/Telegram-Mini-Apps/vanillajs-template) <sup><img src="./profile/assets/js.png" width="15"/> <img src="./profile/assets/vite.png" width="15"/></sup>
+- [solidjs-template](https://github.com/Telegram-Mini-Apps/solidjs-template) <img src="./profile/assets/solidjs.png" width="15"/> <img src="./profile/assets/ts.png" width="15"/> <img src="./profile/assets/vite.png" width="15"/>
+- [react-template](https://github.com/Telegram-Mini-Apps/react-template) <img src="./profile/assets/reactjs.png" width="15"/> <img src="./profile/assets/ts.png" width="15"/> <img src="./profile/assets/vite.png" width="15"/>
+- [nextjs-template](https://github.com/Telegram-Mini-Apps/nextjs-template) <img src="./profile/assets/nextjs.png" width="15"/> <img src="./profile/assets/ts.png" width="15"/>
+- [typescript-template](https://github.com/Telegram-Mini-Apps/typescript-template) <img src="./profile/assets/ts.png" width="15"/> <img src="./profile/assets/vite.png" width="15"/>
+- [vanillajs-template](https://github.com/Telegram-Mini-Apps/vanillajs-template) <img src="./profile/assets/js.png" width="15"/> <img src="./profile/assets/vite.png" width="15"/>
 
 ## Design System
 
