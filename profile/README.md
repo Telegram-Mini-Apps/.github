@@ -27,7 +27,7 @@ platform enhancement. Nevertheless, it is appreciated not only to report a bug
 in this organization, but to go further and refer to it in the Telegram applications
 repositories related to the reported problem.
 
-- [Create a report](https://github.com/Telegram-Mini-Apps/issues/issues/new/choose)
+[Create a report](https://github.com/Telegram-Mini-Apps/issues/issues/new/choose)
 
 ## Boilerplates
 
