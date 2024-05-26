@@ -22,10 +22,12 @@ Everything provided by the organization is the result of hard work and is availa
 
 ## Issues and Enhancements
 
-Organization provides a special [repository](https://github.com/Telegram-Mini-Apps/issues) to report a bug or suggest a
+Organization provides a special repository to report a bug or suggest a
 platform enhancement. Nevertheless, it is appreciated not only to report a bug
 in this organization, but to go further and refer to it in the Telegram applications
 repositories related to the reported problem.
+
+- [Create a report](https://github.com/Telegram-Mini-Apps/issues/issues/new/choose)
 
 ## Boilerplates
 
