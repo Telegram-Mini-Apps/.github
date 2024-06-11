@@ -54,5 +54,7 @@ existing principles. Libraries are available iOS, Android and other platforms.
 
 ## Communication
 
-If you have any questions or suggestions about the particular tool, you are welcome to create an Issue or Pull
-Request. In case of any other questions, you can join our [Telegram chat](https://t.me/devs).
+If you have any questions or suggestions about this tool, you can create an issue or pull request. If you have any other questions, you can ask them in our communities:
+- [Telegram Developers Community](https://t.me/devs)
+- [Telegram Developers Community (CIS)](https://t.me/devs_cis)
+
