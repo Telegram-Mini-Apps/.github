@@ -50,7 +50,7 @@ Community developed a design component library in Figma, which will make it easi
 Telegram Mini Apps. The components fully mimic the Telegram interface, use it as a foundation, and inherit all
 existing principles. Libraries are available iOS, Android and other platforms.
 
-[Open in Figma](https://www.figma.com/file/AwAi6qE11mQllHa1sOROYp/Telegram-Mini-Apps-Library?type=design&node-id=26%3A1081&mode=design&t=Sck9CgzgyKz3iIFt-1)
+[Open in Figma](https://www.figma.com/design/r1WC6MpQS4N9m652p40Qci/Telegram-Mini-Apps-%C2%B7-UI-Kit-(Community)?node-id=26-1081&t=c9C4C7oB1skEXEza-1)
 
 ## Communication
 
