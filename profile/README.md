@@ -29,12 +29,12 @@ repositories related to the reported problem.
 
 [Create a report](https://github.com/Telegram-Mini-Apps/issues/issues/new/choose)
 
-## Boilerplates
+## Templates
 
-[tmajs-docs]: https://docs.telegram-mini-apps.com/packages/typescript/tma-js-sdk/about
+[tmajs-docs]: https://docs.telegram-mini-apps.com/packages/telegram-apps-sdk/2-x
 
-The boilerplates mentioned in this section are [@tma.js](https://docs.telegram-mini-apps.com/packages/tma-js-sdk)-based. They don't use the SDK provided by Telegram,
-but it's a better alternative. Also, almost all boilerplates in this section utilize such frontend tool
+The templates mentioned in this section are [@telegram-apps/sdk](https://docs.telegram-mini-apps.com/packages/telegram-apps-sdk/2-x)-based. They don't use the SDK provided by Telegram,
+but it's a better alternative. Also, almost all templates in this section utilize such frontend tool
 as [Vite](https://vitejs.dev/). This bundler is recognized as a good alternative for such technology
 as [Webpack](https://webpack.js.org/).
 
