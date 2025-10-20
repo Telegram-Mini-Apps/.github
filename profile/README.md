@@ -31,9 +31,9 @@ repositories related to the reported problem.
 
 ## Templates
 
-[tmajs-docs]: https://docs.telegram-mini-apps.com/packages/telegram-apps-sdk/2-x
+[tmajs-docs]: https://docs.telegram-mini-apps.com/packages/tma-js-sdk
 
-The templates mentioned in this section are [@telegram-apps/sdk](https://docs.telegram-mini-apps.com/packages/telegram-apps-sdk/2-x)-based. They don't use the SDK provided by Telegram,
+The templates mentioned in this section are [@tma.js/sdk](https://docs.telegram-mini-apps.com/packages/tma-js-sdk)-based. They don't use the SDK provided by Telegram,
 but it's a better alternative. Also, almost all templates in this section utilize such frontend tool
 as [Vite](https://vitejs.dev/). This bundler is recognized as a good alternative for such technology
 as [Webpack](https://webpack.js.org/).
