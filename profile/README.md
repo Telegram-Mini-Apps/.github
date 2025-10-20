@@ -55,6 +55,5 @@ existing principles. Libraries are available iOS, Android and other platforms.
 ## Communication
 
 If you have any questions or suggestions about this tool, you can create an issue or pull request. If you have any other questions, you can ask them in our communities:
-- [Telegram Developers Community (RU)](https://t.me/devs_cis)
-- [Telegram Developers Community (EN)](https://t.me/devs)
+- [Telegram Developers Community (**RU** / EN)](https://t.me/devs_cis)
 
