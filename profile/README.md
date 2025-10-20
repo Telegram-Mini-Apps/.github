@@ -40,6 +40,7 @@ as [Webpack](https://webpack.js.org/).
 
 - [solidjs-template](https://github.com/Telegram-Mini-Apps/solidjs-template) <img src="./assets/solidjs.png" width="15"/> <img src="./assets/ts.png" width="15"/> <img src="./assets/vite.png" width="15"/>
 - [reactjs-template](https://github.com/Telegram-Mini-Apps/reactjs-template) <img src="./assets/reactjs.png" width="15"/> <img src="./assets/ts.png" width="15"/> <img src="./assets/vite.png" width="15"/>
+- [vuejs-template](https://github.com/Telegram-Mini-Apps/vuejs-template) <img src="./assets/vuejs.png" width="15"/> <img src="./assets/ts.png" width="15"/> <img src="./assets/vite.png" width="15"/>
 - [nextjs-template](https://github.com/Telegram-Mini-Apps/nextjs-template) <img src="./assets/nextjs.png" width="15"/> <img src="./assets/ts.png" width="15"/>
 - [typescript-template](https://github.com/Telegram-Mini-Apps/typescript-template) <img src="./assets/ts.png" width="15"/> <img src="./assets/vite.png" width="15"/> _(archived, not supported)_
 - [vanillajs-template](https://github.com/Telegram-Mini-Apps/vanillajs-template) <img src="./assets/js.png" width="15"/> <img src="./assets/vite.png" width="15"/> _(archived, not supported)_
